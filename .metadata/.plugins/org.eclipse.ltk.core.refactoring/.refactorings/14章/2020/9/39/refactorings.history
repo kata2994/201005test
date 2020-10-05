@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;練習問題.Koza&apos; を &apos;Account&apos; に名前変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;14章&apos;&#x0D;&#x0A;- オリジナル要素: &apos;練習問題.Koza&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;練習問題.Account&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;Koza&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;練習問題{Koza.java[Koza" matchStrategy="1" name="Account" qualified="false" references="true" similarDeclarations="false" stamp="1600861095916" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,24 @@
+package list17_10_2;
+
+import java.io.FileWriter;
+
+public class Main {
+
+	public static void main(String[] args) {
+		sub();
+	}
+
+
+	public static void sub() {
+		subsub();
+
+	}
+
+
+	public static void subsub() {
+		FileWriter fw = new FileWriter("data.txt");
+
+
+	}
+
+}

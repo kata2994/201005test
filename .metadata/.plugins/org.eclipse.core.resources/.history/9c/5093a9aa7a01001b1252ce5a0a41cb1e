@@ -1,0 +1,22 @@
+package list17_10_2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		sub();
+	}
+
+
+	public static void sub() {
+		subsub();
+
+	}
+
+
+	public static void subsub() {
+		FileWriter fw = new FileWriter("data.txt");
+
+
+	}
+
+}
